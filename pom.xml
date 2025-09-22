@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.edu.insper</groupId>
-	<artifactId>musicmeter</artifactId>
+	<artifactId>biblioteca</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>musicmeter</name>
-	<description>MusicMeter</description>
+	<name>biblioteca</name>
+	<description>Biblioteca</description>
 	<url/>
 	<licenses>
 		<license/>
